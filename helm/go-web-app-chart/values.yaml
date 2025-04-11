@@ -8,7 +8,7 @@ image:
   repository: gantagouthamyadav/project
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10016307834"
+  tag: "14401267117"
 
 ingress:
   enabled: false
